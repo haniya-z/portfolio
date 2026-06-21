@@ -36,8 +36,8 @@ export default function Contact() {
             <h3>Let's Connect</h3>
             <p>Feel free to reach out to me via email or connect on social media.</p>
             <div className="contact-links">
-              <a href="mailto:hello@example.com" className="contact-link">
-                ✉️ hello@example.com
+              <a href="mailto:haniya2078@gmail.com" className="contact-link">
+                ✉️ haniya2078@gmail.com
               </a>
               <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="contact-link">
                 🔗 GitHub
