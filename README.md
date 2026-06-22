@@ -31,3 +31,6 @@ HTML
 CSS
 Node.js
 >>>>>>> 9d231f1449940daafe9ef7a2fab1a26197193b29
+
+<img width="1518" height="725" alt="image" src="https://github.com/user-attachments/assets/8e43e79b-935c-4686-84ef-1bd56fcbd11e" />
+
